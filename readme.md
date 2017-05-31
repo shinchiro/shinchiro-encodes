@@ -1,1 +1,1 @@
-Subscribe RSS feed from commits
+Subscribe RSS feed from commits to get latest updates for https://miniencodes.ml
